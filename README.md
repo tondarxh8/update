@@ -1,6 +1,6 @@
-# Tonadar VPN Update Page
+# Tondar VPN Update Page
 
-A modern, responsive GitHub Pages site for distributing APK updates for the Tonadar VPN application. The page features a dark blue theme with Persian language support.
+A modern, responsive GitHub Pages site for distributing APK updates for the Tondar VPN application. The page features a dark blue theme with Persian language support.
 
 ## Features
 
@@ -159,4 +159,4 @@ This project is open source. Feel free to use and modify for your own VPN applic
 
 ---
 
-Made with ❤️ for the Tonadar VPN community 
+Made with ❤️ for the Tondar VPN community 

@@ -1,6 +1,6 @@
-# GitHub Pages Configuration for Tonadar VPN Update Page
-title: "Tonadar VPN Update"
-description: "صفحه بروزرسانی اپلیکیشن Tonadar VPN"
+# GitHub Pages Configuration for Tondar VPN Update Page
+title: "Tondar VPN Update"
+description: "صفحه بروزرسانی اپلیکیشن Tondar VPN"
 
 # Build settings
 markdown: kramdown
@@ -18,7 +18,7 @@ plugins:
 
 # SEO settings
 lang: fa
-author: "Tonadar VPN Team"
+author: "Tondar VPN Team"
 
 # Social and metadata
 url: ""  # This will be set automatically by GitHub Pages
@@ -55,6 +55,6 @@ defaults:
       lang: "fa"
 
 # Custom variables
-vpn_name: "Tonadar VPN"
-current_version: "1.0.0"
+vpn_name: "Tondar VPN"
+current_version: "1.0.3"
 release_date: "2024-01-01" 
