@@ -3,7 +3,7 @@ const CONFIG = {
     // Update this with your actual APK file name in the repository
     apkFileName: 'Tonadar_VPN_1.0.3.apk',
     // Update this with your actual Telegram channel link
-    telegramChannel: 'https://t.me/pingkhor_cha/897',
+    telegramChannel: 'https://t.me/tondar_update/2',
     // Download delay for UX (milliseconds)
     downloadDelay: 500
 };
